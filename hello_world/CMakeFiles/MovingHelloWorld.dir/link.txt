@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/MovingHelloWorld.dir/hello_world.c.o CMakeFiles/MovingHelloWorld.dir/file_size_calculator.c.o -o MovingHelloWorld  /usr/lib/x86_64-linux-gnu/libSM.so /usr/lib/x86_64-linux-gnu/libICE.so /usr/lib/x86_64-linux-gnu/libX11.so /usr/lib/x86_64-linux-gnu/libXext.so 
