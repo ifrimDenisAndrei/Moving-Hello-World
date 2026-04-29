@@ -1,7 +1,7 @@
 # Moving-Hello-World
 
 ## Description
-  A simple window displaying a coloured hello world text sorrounded by a rectangle and a circle. The text can be moved by pressing the arround keys 
+  A simple window displaying a coloured hello world text sorrounded by a rectangle and a circle. The text is read from a text file and can be moved by pressing the arround keys. 
 
 ## Usage 
   The code is already compiled and built , it can be ran by double clicking on the executable "MovingHelloWorld"
